@@ -1,9 +1,9 @@
 physics_branchs = [
-	'QED' #index 0
-	'Electromagnetism'#index1
-	'Termodynamics'#index 2
-	'Quantum'#index 3
-	'Astronomy'#index 4
+	'QED', #index 0
+	'Electromagnetism',#index1
+	'Termodynamics',#index 2
+	'Quantum',#index 3
+	'Astronomy',#index 4
 	'Statistics'#index5
 ]
 
